@@ -1,6 +1,6 @@
 name: crc_32_mpeg_2
 description: Flutter and Dart package that calculate CRC-32 checksum for given string with CRC-32/MPEG-2 capabilities.
-version: 0.0.2
+version: 0.0.2-1
 homepage: https://plus.fluttercommunity.dev/
 repository: https://github.com/feedsbrain/crc-32-mpeg-2
 
